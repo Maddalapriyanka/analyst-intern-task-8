@@ -1,4 +1,4 @@
-In this file have the data about sales of a super store
+In this file we have the data of sales of a super store
 I have shown the data in the form of bar graph, donut chart and ploted graph
 I have given sum of sales by sub category in donut chart
 I have defined sum of sales by region in ploted graph
